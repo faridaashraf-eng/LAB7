@@ -7,7 +7,7 @@
  *
  * @author Psyche
  */
-public class lab7 {
+public class EmployeeManagementSystem {
 
     /**
      * @param args the command line arguments
