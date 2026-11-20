@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package member1;
-package com.mycompany.employeemanagementsystem.model;
 
 /**
  *
@@ -85,7 +84,4 @@ public abstract class Employee {
         }
         this.position = position.trim();
     }
-}
-
-    
 }
