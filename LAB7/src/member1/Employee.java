@@ -57,7 +57,7 @@ public abstract class Employee {
     }
 
     public void setAge(int age) {
-        if (age <= 0 || age > 120) {
+        if (age <= 0 || age > 70) {
             throw new IllegalArgumentException("Age must be between 1 and 120.");
         }
         this.age = age;

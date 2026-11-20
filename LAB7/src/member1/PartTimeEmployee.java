@@ -51,8 +51,8 @@ public class PartTimeEmployee extends Employee {
     }
 
     public void setHoursWorked(double hoursWorked) {
-        if (hoursWorked < 0 || hoursWorked > 744) {
-            throw new IllegalArgumentException("Hours worked must be between 0 and 744 hours per month.");
+        if (hoursWorked < 0 || hoursWorked > 248) {
+            throw new IllegalArgumentException("Hours worked must be between 0 and 248 hours per month.");
         }
         this.hoursWorked = hoursWorked;
     }

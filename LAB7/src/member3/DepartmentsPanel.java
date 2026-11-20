@@ -1,9 +1,14 @@
-package member3;
-
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+package member3;
+
+import member1.Department;
+import member2.DepartmentManager;
+import member1.Employee;
+import member2.EmployeeManager;
+import member2.Validator;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;

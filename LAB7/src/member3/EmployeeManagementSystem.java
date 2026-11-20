@@ -1,9 +1,12 @@
-package member3;
-
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
+package member3;
+
+import member2.DepartmentManager;
+import member2.EmployeeManager;
+import member2.FileHandler;
 import java.io.IOException;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;

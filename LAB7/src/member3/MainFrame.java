@@ -1,9 +1,13 @@
-package member3;
-
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+package member3;
+
+import member4.AddEmployeePanel;
+import member2.DepartmentManager;
+import member2.EmployeeManager;
+import member4.EmployeesPanel;
 import member3.LoginFrame;
 import member3.HomePanel;
 import member3.DepartmentsPanel;
